@@ -15,3 +15,20 @@
 \\HHSDC\178712$\My Documents\ICS4U\Programs\u2_SummativeNolan\u2_SummativeNolan\obj\Debug\u2_SummativeNolan.pdb
 \\HHSDC\178712$\My Documents\ICS4U\Programs\u2_SummativeNolan\u2_SummativeNolan\bin\Debug\images\Spaceship.png
 \\HHSDC\178712$\My Documents\ICS4U\Programs\u2_SummativeNolan\u2_SummativeNolan\obj\Debug\u2_SummativeNolan_Content.g.cs
+C:\Users\nolan\Documents\Visual Studio 2017\projects\u2_SummativeNolan\u2_SummativeNolan\bin\Debug\images\Spaceship.png
+C:\Users\nolan\Documents\Visual Studio 2017\projects\u2_SummativeNolan\u2_SummativeNolan\bin\Debug\u2_SummativeNolan.exe.config
+C:\Users\nolan\Documents\Visual Studio 2017\projects\u2_SummativeNolan\u2_SummativeNolan\bin\Debug\u2_SummativeNolan.exe
+C:\Users\nolan\Documents\Visual Studio 2017\projects\u2_SummativeNolan\u2_SummativeNolan\bin\Debug\u2_SummativeNolan.pdb
+C:\Users\nolan\Documents\Visual Studio 2017\projects\u2_SummativeNolan\u2_SummativeNolan\obj\Debug\u2_SummativeNolan.csprojResolveAssemblyReference.cache
+C:\Users\nolan\Documents\Visual Studio 2017\projects\u2_SummativeNolan\u2_SummativeNolan\obj\Debug\MainWindow.g.cs
+C:\Users\nolan\Documents\Visual Studio 2017\projects\u2_SummativeNolan\u2_SummativeNolan\obj\Debug\App.g.cs
+C:\Users\nolan\Documents\Visual Studio 2017\projects\u2_SummativeNolan\u2_SummativeNolan\obj\Debug\u2_SummativeNolan_Content.g.cs
+C:\Users\nolan\Documents\Visual Studio 2017\projects\u2_SummativeNolan\u2_SummativeNolan\obj\Debug\u2_SummativeNolan_MarkupCompile.cache
+C:\Users\nolan\Documents\Visual Studio 2017\projects\u2_SummativeNolan\u2_SummativeNolan\obj\Debug\u2_SummativeNolan_MarkupCompile.lref
+C:\Users\nolan\Documents\Visual Studio 2017\projects\u2_SummativeNolan\u2_SummativeNolan\obj\Debug\MainWindow.baml
+C:\Users\nolan\Documents\Visual Studio 2017\projects\u2_SummativeNolan\u2_SummativeNolan\obj\Debug\u2_SummativeNolan.g.resources
+C:\Users\nolan\Documents\Visual Studio 2017\projects\u2_SummativeNolan\u2_SummativeNolan\obj\Debug\u2_SummativeNolan.Properties.Resources.resources
+C:\Users\nolan\Documents\Visual Studio 2017\projects\u2_SummativeNolan\u2_SummativeNolan\obj\Debug\u2_SummativeNolan.csproj.GenerateResource.Cache
+C:\Users\nolan\Documents\Visual Studio 2017\projects\u2_SummativeNolan\u2_SummativeNolan\obj\Debug\u2_SummativeNolan.csproj.CoreCompileInputs.cache
+C:\Users\nolan\Documents\Visual Studio 2017\projects\u2_SummativeNolan\u2_SummativeNolan\obj\Debug\u2_SummativeNolan.exe
+C:\Users\nolan\Documents\Visual Studio 2017\projects\u2_SummativeNolan\u2_SummativeNolan\obj\Debug\u2_SummativeNolan.pdb
